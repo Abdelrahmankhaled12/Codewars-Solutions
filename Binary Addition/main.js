@@ -13,12 +13,16 @@
 
 
     function addBinary(a, b) {
+        // Sum Number 1 and Number 2
         let sum = a + b;
+        // Create variable Result
         let result = "";
+        // Use While for conver number to Binary
         while (sum != 0) {
         result = `${parseInt(sum % 2.0)}` + result;
         sum = parseInt(sum / 2.0);
         }
+        // return number after convert Binary
         return result;
     }
     
