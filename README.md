@@ -1,4 +1,8 @@
-<img src="https://docs.codewars.com/logo.svg" width="250"/>
+
+<p align="center">
+  <img width="200" src="https://docs.codewars.com/logo.svg">
+</p>
+
 
 # Codewars-Solutions
 
