@@ -1,4 +1,4 @@
-<img src="https://www.codewars.com/packs/assets/og-image.7f5134fb.png" />
+<img src="https://docs.codewars.com/logo.svg" />
 
 # Codewars-Solutions
 
